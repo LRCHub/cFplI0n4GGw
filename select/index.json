@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "知らないあそび",
+  "base_artist": "Tatsuya Kitani",
+  "createdAt": "2026-02-09T12:54:05.239002Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "知らないあそび (feat.indigo la End)",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_知らないあそび_(feat.indigo_la_End)_キタニタツヤ.txt"
+    }
+  ]
+}
